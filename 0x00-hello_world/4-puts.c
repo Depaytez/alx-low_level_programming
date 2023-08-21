@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-	printf("Holberton School");
+	printf("Programming is like building a multilingual puzzle");
 	return (0);
 }
